@@ -9,7 +9,7 @@ class Vehicle {
         this.mileage = mileage;
         this.started = false;
         this.numberOfWheels = 0;
-        this.fuel = 1000
+        this.fuel = 100;
     }
 
 ////////Old Code, dies not stop the car///////
